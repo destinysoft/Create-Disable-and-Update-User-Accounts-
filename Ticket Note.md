@@ -50,7 +50,7 @@ HR submitted a follow-up request asking for the account to be suspended temporar
 
 1. Located Bob Thornton in ADUC under Office Users OU
 2. Right-clicked account and selected Disable Account
-3. Received AD confirmation: Object Hogan Hogan has been disabled
+3. Received AD confirmation: Object Bob Thornton has been disabled
 4. Verified downward arrow icon appeared on the account object confirming disabled state
 
 **Outcome:** Account suspended. User cannot log in. All attributes and group memberships preserved.
